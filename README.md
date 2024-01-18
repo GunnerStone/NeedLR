@@ -47,7 +47,7 @@ python main.py
 
 ### Usage
 
-![Screenshot of Application](ReadME_Assets/NeedLR.png)
+![Screenshot of Application](ReadME_Assets/program_screenshot.png)
 
 - Select a point cloud file or folder to begin annotation.
 - Select destination folder to store annotations in JSON format. 
