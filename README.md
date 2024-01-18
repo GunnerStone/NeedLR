@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-    Thanks to the contributors of the [fpsample library](https://github.com/leonardodalinky/fpsample) for efficient downsampling algorithms.
+Thanks to the contributors of the [fpsample library](https://github.com/leonardodalinky/fpsample) for efficient downsampling algorithms.
