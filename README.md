@@ -34,7 +34,7 @@ Clone the repository and install the required packages:
 ```bash
 git clone https://github.com/your-username/NeedLR.git
 cd NeedLR
-pip install -r requirements.txt
+conda env create --name NeedLR -f environment.yml
 ```
 
 ### Executing Program

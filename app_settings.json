@@ -3,10 +3,10 @@
     "point_size": 0.2,
     "show_full_view": true,
     "show_cluster_view": false,
-    "eco_mode": false,
-    "superpoint_graph": "mst",
+    "eco_mode": true,
+    "superpoint_graph": "knn",
     "KNN_graph": 5,
-    "Subsampling": "bucket_fps_kdline_medium",
-    "Subsample_size": 1024,
-    "Community_detection": "louvain"
+    "Subsampling": "random",
+    "Subsample_size": 2048,
+    "Community_detection": "label_propagation"
 }
