@@ -25,7 +25,7 @@ Welcome to NeedLR, a specialized tool for Needle-like precision in Labeling and 
 - Open3D
 - Mayavi
 - fpsample (for FPS downsampling)
-- Other dependencies listed in `requirements.txt`.
+- Other dependencies listed in `environment.yml`.
 
 ### Installing
 
