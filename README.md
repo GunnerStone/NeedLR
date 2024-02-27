@@ -17,6 +17,8 @@ Welcome to NeedLR, a specialized tool for Needle-like precision in Labeling and 
 
 ## Getting Started
 
+[Download the .exe](https://sourceforge.net/projects/needlr/) or compile and run the binaries on your own using the information below.
+
 ### Dependencies
 
 - Python 3.8.5
