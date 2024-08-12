@@ -93,7 +93,17 @@ python main.py
 - **Kernighan-Lin Bipartitions**: A network partitioning method that divides the graph into two communities by iteratively swapping pairs of nodes to reduce the edge cut between them.
 
 
-
+## Reference
+If you use this tool for a paper, please cite:
+```
+@incollection{stone2024needlr,
+  title={NeedLR: Streamlining Point Cloud Annotation for Enhanced Machine Learning Integration},
+  author={Stone, Gunner and Tavakkoli, Alireza},
+  booktitle={Practice and Experience in Advanced Research Computing 2024: Human Powered Computing},
+  pages={1--4},
+  year={2024}
+}
+```
 
 
 ## License
